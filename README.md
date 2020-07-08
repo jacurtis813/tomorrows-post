@@ -89,3 +89,4 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 67. Floating divs so that way we can clean up our html file to look more presentable
 68. Now we are going to work with element positioning, so far these elements are set by relative meaning that they are set by other elements
 69. Placing the units for the value of absolute to reposition the specified element
+70. Understanding on the positioning property and how to adjust around
