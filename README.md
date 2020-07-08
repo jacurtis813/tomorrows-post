@@ -26,5 +26,10 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 15. We will also have to use the attribute to call on the specific photo/ image that we want to use, that attribute is the src attribute
 16. Once we have fully structured our tag/ element for the images we can save the changes and view them in the browser
 17. Create the src and alt attributes so that we can call on the image and give the image meaning
+18. Remember that the image tag is a self closing tag, meaning that this is a single tag element
 
-18. 
+19. Now we will learn how to use links within our html file
+20. We will use the a tag which is known as the anchor tag and then we will use the href attribute
+21. Creat the link to the udemy website using the a tag and the proper attribute
+22. Remember that the href is hyper reference, that we are calling upon which means that we will need the https url to link to
+23. We must place text or content between the opening and the closing anchor tag so that the user has something to click on
