@@ -37,6 +37,22 @@ h2 {
 
 .container {
     width: 1140px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.blog-post {
+    background-color: #00a2ff;
+    width: 75%;
+    float: left;
+}
+
+.other-posts {
+    background-color: #05bb4b;
+    width: 25%;
+    float: left;
+}
+
+.author-box {
+    background-color: #c2ce17;
+}

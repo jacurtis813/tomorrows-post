@@ -74,4 +74,10 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 55. Using the value of auto with the property of margin
 56. Start the simple layout using the div element to create boxes around each content area
 
-57. 
+57. Comment around all div containers to format properly
+58. Begin styling each div container to show each box, better understanding of what we have done
+59. Learning how to use the width of a container
+60. Learning how to use the float property to move things around on the web page
+61. Float two selectors and test that the floats have worked pushing the specified content in that direction
+
+62. 
