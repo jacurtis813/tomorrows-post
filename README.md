@@ -87,4 +87,3 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 
 66. Polishing up our blog post
 67. Floating divs so that way we can clean up our html file to look more presentable
-68. 
