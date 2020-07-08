@@ -14,3 +14,5 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 6. Begin filling our page with the content, start with the title tag, next use the h1 tag to start our structure
 7. Get the understanding of how the h1 through h6 headings all work
 8. Learn how to create the paragraph tag and how we can use multiple
+9. Now we will learn how to apply images within the file
+10. 
