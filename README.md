@@ -90,3 +90,9 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 68. Now we are going to work with element positioning, so far these elements are set by relative meaning that they are set by other elements
 69. Placing the units for the value of absolute to reposition the specified element
 70. Understanding on the positioning property and how to adjust around
+
+71. Google chrome dev tools to inspect and optimize our web pages
+72. Understanding the use of these dev tools
+73. Understanding the typography of a web page, the complete structure and the design
+74. Understanding the main difference of fonts and font styles
+
