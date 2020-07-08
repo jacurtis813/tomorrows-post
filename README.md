@@ -84,3 +84,7 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 63. Using the clear property within a psuedo selector. placing the div after the div with class of other-posts
 64. Understand in depth how to use the margin and the padding property and how to condense
 65. Use the margin, border, and padding property using each selection style
+
+66. Polishing up our blog post
+67. Floating divs so that way we can clean up our html file to look more presentable
+68. 
