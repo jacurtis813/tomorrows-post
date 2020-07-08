@@ -45,3 +45,9 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 31. In our case we will use the external style sheet option, this is my favorite way to do so
 32. Now we must create the link for our style sheet that we are trying to call upon for our html file
 33. Complete the creation of our link for the css style sheet, create one file style to see that the link works as it should
+
+34. Now we will begin to learn how to structure the css file to assign properties and values by each selector
+35. Start by creating some styles for the html, we will start with the element selectors
+36. We have now created styles for the body and for the h1 and h2 elements
+37. We will now create the styles for the paragraph elements and work on condensing the css file
+38. Now we will condense the css styles using the css inheritance rule
