@@ -85,5 +85,7 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 64. Understand in depth how to use the margin and the padding property and how to condense
 65. Use the margin, border, and padding property using each selection style
 
-66. Polishing up our blog post
+66. Polishing up our blog post, clean this up to look presentable
 67. Floating divs so that way we can clean up our html file to look more presentable
+68. Now we are going to work with element positioning, so far these elements are set by relative meaning that they are set by other elements
+69. Placing the units for the value of absolute to reposition the specified element

@@ -53,6 +53,15 @@ h2 {
     width: 75%;
     float: left;
     padding: 0 30px;
+    position: relative;
+}
+
+.dates {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-top: 10px;
+    padding-right: 10px;
 }
 
 .other-posts {
