@@ -80,4 +80,7 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 60. Learning how to use the float property to move things around on the web page
 61. Float two selectors and test that the floats have worked pushing the specified content in that direction
 
-62. 
+62. Learn how to use the clear property, which is like the counter part to the float property
+63. Using the clear property within a psuedo selector. placing the div after the div with class of other-posts
+64. Understand in depth how to use the margin and the padding property and how to condense
+65. Use the margin, border, and padding property using each selection style
