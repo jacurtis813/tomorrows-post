@@ -39,3 +39,9 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 26. We have learned how to link an external file or document now lets try doing this with internal link of the page/ file
 27. Complete the HTML introduction to the basics course content
 28. Take a quiz to finalize the section to show what we have learned along the way
+
+29. Now we begin with the basics of css styling
+30. Understanding all the ways that we can style an html file with the css property and value selectors
+31. In our case we will use the external style sheet option, this is my favorite way to do so
+32. Now we must create the link for our style sheet that we are trying to call upon for our html file
+33. Complete the creation of our link for the css style sheet, create one file style to see that the link works as it should
