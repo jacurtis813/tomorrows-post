@@ -58,4 +58,8 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 42. Next, we will use the styling in the html by using the attribute of id within the paragraph tag
 43. Begin the styling the class and the id within the style sheet
 
-44. 
+44. Remember that ids are suppose to be very unique, they are to only be used once
+45. CLasses are the best practice because the class can be applied more than once
+46. Understanding the box-model, content, paddong, border and margin
+47. NOT only can we set those above but we can also add the width and height to those properties
+48. Understanding the difference between the block and inline elements
