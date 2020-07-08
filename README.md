@@ -11,3 +11,6 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 3. Create the HTML file for the document to begin the lesson
 4. Start the lesson with learning the proper structure of HTML
 5. Format the html document so that we can begin creating the structure of our document
+6. Begin filling our page with the content, start with the title tag, next use the h1 tag to start our structure
+7. Get the understanding of how the h1 through h6 headings all work
+8. Learn how to create the paragraph tag and how we can use multiple
