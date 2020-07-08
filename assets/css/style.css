@@ -9,7 +9,7 @@ body {
 /*this text color will work or over ride the first value above because
 this is the most recent value*/
 h1 {
-    color: green;
+    color: rgba(9, 67, 121, 0.555);
     font-size: 40px;
     /* comment out to show
     font-family: Helvetica, Arial, Sans-serif;
@@ -23,6 +23,10 @@ h2 {
     */
 }
 
-p {
+.main-text {
     text-align: justify;
+}
+
+#author-text {
+    font: 22px;
 }

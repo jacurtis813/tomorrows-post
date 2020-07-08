@@ -51,3 +51,11 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 36. We have now created styles for the body and for the h1 and h2 elements
 37. We will now create the styles for the paragraph elements and work on condensing the css file
 38. Now we will condense the css styles using the css inheritance rule
+
+39. Learning how to style with colors, multiple ways to access the color schemes
+40. Learning how to style with the class selector and the id selector
+41. We will start with styling in the html by using the attribute of class within the paragraph tag
+42. Next, we will use the styling in the html by using the attribute of id within the paragraph tag
+43. Begin the styling the class and the id within the style sheet
+
+44. 
