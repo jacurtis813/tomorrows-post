@@ -1,9 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /*body styles*/
 body {
     background-color: rgb(190, 58, 5);
     color: white;
     font-family: Helvetica, Arial, Sans-serif;
     font-size: 18px;
+    padding: 10px;
 }
 
 /*this text color will work or over ride the first value above because
@@ -11,20 +18,17 @@ this is the most recent value*/
 h1 {
     color: rgba(9, 67, 121, 0.555);
     font-size: 40px;
-    /* comment out to show
-    font-family: Helvetica, Arial, Sans-serif;
-    */
+    margin-bottom: 20px;
 }
 
 h2 {
     font-size: 25px;
-    /* comment out to show
-    font-family: Helvetica, Arial, Sans-serif;
-    */
+    margin-bottom: 10px;
 }
 
 .main-text {
     text-align: justify;
+    margin-bottom: 20px;
 }
 
 #author-text {

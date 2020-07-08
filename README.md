@@ -63,3 +63,8 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 46. Understanding the box-model, content, paddong, border and margin
 47. NOT only can we set those above but we can also add the width and height to those properties
 48. Understanding the difference between the block and inline elements
+
+49. Learn what the universal selector is and how to set the selector
+50. Apply specific margin values to understand how to select
+51. Apply specific padding values to understand how to select
+52. Clean out the css file, remove all the comments to clean it all up
