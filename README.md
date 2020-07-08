@@ -33,3 +33,9 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 21. Creat the link to the udemy website using the a tag and the proper attribute
 22. Remember that the href is hyper reference, that we are calling upon which means that we will need the https url to link to
 23. We must place text or content between the opening and the closing anchor tag so that the user has something to click on
+
+24. Learn the target attribute which will open a new tab or window if we would like to do so with our links
+25. To make these links open in a new tab we can use the target="_blank"
+26. We have learned how to link an external file or document now lets try doing this with internal link of the page/ file
+27. Complete the HTML introduction to the basics course content
+28. Take a quiz to finalize the section to show what we have learned along the way
