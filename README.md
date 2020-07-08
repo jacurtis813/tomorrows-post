@@ -68,3 +68,10 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 50. Apply specific margin values to understand how to select
 51. Apply specific padding values to understand how to select
 52. Clean out the css file, remove all the comments to clean it all up
+
+53. Learning how to build a simple layout. starting with a mock up
+54. Using the div element, to create boxes by dividing out these sections
+55. Using the value of auto with the property of margin
+56. Start the simple layout using the div element to create boxes around each content area
+
+57. 
