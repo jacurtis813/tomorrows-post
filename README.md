@@ -100,3 +100,9 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 76. Working with images, understanding how to work with images
 77. Learning how to use an image as the background and then over laying color on top of the image to help lay text
 78. We can use the image with color to make our websites more responsive
+
+79. Working with icons, how to use icons properly
+80. Best practice for using icons, use them sparsely and use them well- show meaning with the icon or at least give brief name to the icon
+81. Understanding how to use white space, white space will give the page a clean and inviting way
+82. Clearing the html and css structure up to make it look more real and responsive
+

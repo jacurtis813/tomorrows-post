@@ -12,11 +12,11 @@
 
 /*body styles*/
 body {
-    background-color: rgb(190, 58, 5);
     color: white;
     font-family: Helvetica, Arial, Sans-serif;
     font-size: 18px;
     padding: 10px;
+    background-color: #00a2ff;
 }
 
 /*this text color will work or over ride the first value above because
@@ -24,7 +24,9 @@ this is the most recent value*/
 h1 {
     color: rgba(9, 67, 121, 0.555);
     font-size: 40px;
+    margin-top: 5px;
     margin-bottom: 20px;
+    text-decoration: underline;
 }
 
 h2 {
@@ -49,11 +51,12 @@ h2 {
 }
 
 .blog-post {
-    background-color: #00a2ff;
     width: 75%;
     float: left;
     padding: 0 30px;
     position: relative;
+    background-color: #fff;
+    color: rgb(97, 97, 97);
 }
 
 .dates {
@@ -65,12 +68,12 @@ h2 {
 }
 
 .other-posts {
-    background-color: #05bb4b;
+    background-color: #fff;
     width: 25%;
     float: left;
     border-left: 2px solid rgb(97, 97, 97);
     padding:5px 0 0 5px;
-    
+    color: rgb(97, 97, 97);
 }
 
 .author-box {
