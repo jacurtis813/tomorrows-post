@@ -96,3 +96,7 @@ Begin the HTML and CSS3 with jquery. Complete this section to recieve the certif
 73. Understanding the typography of a web page, the complete structure and the design
 74. Understanding the main difference of fonts and font styles
 
+75. Understanding the theory of color and the use of color within the web page, think of the real world when thinking of color
+76. Working with images, understanding how to work with images
+77. Learning how to use an image as the background and then over laying color on top of the image to help lay text
+78. We can use the image with color to make our websites more responsive
